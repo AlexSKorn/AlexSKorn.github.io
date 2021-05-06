@@ -2,7 +2,7 @@
   "name": "alex-korn-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlexSKorn/AlexSKorn.github.io.git",
+  "homepage": "https://alexskorn.github.io/",
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "@craco/craco": "^6.0.0",
