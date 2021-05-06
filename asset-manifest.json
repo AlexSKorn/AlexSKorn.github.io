@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/AlexSKorn/AlexSKorn.github.io.git/static/css/main.2e999d53.chunk.css",
+    "main.js": "/AlexSKorn/AlexSKorn.github.io.git/static/js/main.1f265d59.chunk.js",
+    "main.js.map": "/AlexSKorn/AlexSKorn.github.io.git/static/js/main.1f265d59.chunk.js.map",
+    "runtime-main.js": "/AlexSKorn/AlexSKorn.github.io.git/static/js/runtime-main.3e21a461.js",
+    "runtime-main.js.map": "/AlexSKorn/AlexSKorn.github.io.git/static/js/runtime-main.3e21a461.js.map",
+    "static/js/2.15f37063.chunk.js": "/AlexSKorn/AlexSKorn.github.io.git/static/js/2.15f37063.chunk.js",
+    "static/js/2.15f37063.chunk.js.map": "/AlexSKorn/AlexSKorn.github.io.git/static/js/2.15f37063.chunk.js.map",
+    "static/js/3.f4a74660.chunk.js": "/AlexSKorn/AlexSKorn.github.io.git/static/js/3.f4a74660.chunk.js",
+    "static/js/3.f4a74660.chunk.js.map": "/AlexSKorn/AlexSKorn.github.io.git/static/js/3.f4a74660.chunk.js.map",
+    "index.html": "/AlexSKorn/AlexSKorn.github.io.git/index.html",
+    "static/css/main.2e999d53.chunk.css.map": "/AlexSKorn/AlexSKorn.github.io.git/static/css/main.2e999d53.chunk.css.map",
+    "static/js/2.15f37063.chunk.js.LICENSE.txt": "/AlexSKorn/AlexSKorn.github.io.git/static/js/2.15f37063.chunk.js.LICENSE.txt",
+    "static/media/ChromeLogo.a3b3f365.png": "/AlexSKorn/AlexSKorn.github.io.git/static/media/ChromeLogo.a3b3f365.png",
+    "static/media/discord.407832a9.png": "/AlexSKorn/AlexSKorn.github.io.git/static/media/discord.407832a9.png",
+    "static/media/gacImage.7c8cd292.png": "/AlexSKorn/AlexSKorn.github.io.git/static/media/gacImage.7c8cd292.png",
+    "static/media/map.957da95b.jpg": "/AlexSKorn/AlexSKorn.github.io.git/static/media/map.957da95b.jpg",
+    "static/media/profile-pic.bf69ce1d.jpg": "/AlexSKorn/AlexSKorn.github.io.git/static/media/profile-pic.bf69ce1d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e21a461.js",
+    "static/js/2.15f37063.chunk.js",
+    "static/css/main.2e999d53.chunk.css",
+    "static/js/main.1f265d59.chunk.js"
+  ]
+}
