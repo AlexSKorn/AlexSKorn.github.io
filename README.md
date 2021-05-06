@@ -1,2 +1,2 @@
 # AlexSKorn.github.io
- Personal Porfolio Website
+ Alex Korn Portfolio
