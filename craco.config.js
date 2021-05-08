@@ -7,7 +7,6 @@ module.exports = {
 			options: {
 				lessLoaderOptions: {
 					lessOptions: {
-						// TODO(theme_color): change the color here to your theme color
 						modifyVars: { "@primary-color": "#3AAFA9" },
 						javascriptEnabled: true,
 					},

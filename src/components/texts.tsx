@@ -87,7 +87,7 @@ export const resumeData: ResumeData = {
         'Worked as part of a cross-functional agile, R&D software team',
         'Developed, designed, and tested REST APIs build in C#',
         'Designed and implemented web applications and tools for internal use.',
-        'Successfully setup Azure infrastructure, VMs, functions, and Azure DeveOps CI/CD pipelines',
+        'Successfully setup Azure infrastructure, VMs, functions, and Azure DevOps CI/CD pipelines',
         'C#, Javascript, SQL Server, Razor Pages, WPF, HTML, CSS, Azure, Azure DevOps'
       ]
     },
